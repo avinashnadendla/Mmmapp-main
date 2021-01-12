@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581465340960",
+    "project_id": "mmmapp-8a354",
+    "storage_bucket": "mmmapp-8a354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581465340960:android:2a4d38f42fd664a78ed045",
+        "android_client_info": {
+          "package_name": "com.example.mmmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581465340960-8rr5uluksb3f8r6fko5ouhb3quvf6hib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AnCjTzbpi4r4sHvyY3FVjAPtY5GEauE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581465340960-8rr5uluksb3f8r6fko5ouhb3quvf6hib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
